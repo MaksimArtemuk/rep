@@ -535,7 +535,7 @@
       <option name="presentableId" value="Default" />
       <updated>1461850242153</updated>
       <workItem from="1461850245265" duration="931000" />
-      <workItem from="1461851384821" duration="162000" />
+      <workItem from="1461851384821" duration="371000" />
     </task>
     <task id="LOCAL-00001" summary="коммит">
       <created>1461850736414</created>
@@ -548,7 +548,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1093000" />
+    <option name="totallyTimeSpent" value="1302000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
